@@ -1,7 +1,7 @@
 ---
-title: ¿Por qué las pistas no se graban de forma fiable en segundo plano en Android?
-slug: por-qué-las-pistas-no-se-graban-de-forma-fiable-en-segundo-plano-en-android
-description: La configuración predeterminada de optimización de la batería en Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC y otros dispositivos puede detener o cerrar la aplicación Organic Maps en segundo plano.
+title: ¿Por qué los trayectos no se graban de forma fiable en segundo plano en Android?
+slug: por-qué-los-trayectos-no-se-graban-de-forma-fiable-en-segundo-plano-en-android
+description: La configuración predeterminada de optimización de la batería en Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC y otros dispositivos puede impedir que Organic Maps grabe trayectos en segundo plano.
 updated: "2024-10-05"
 
 taxonomies:
@@ -13,7 +13,7 @@ aliases:
   - /es/faq/bookmarks/android-track-recording/
 ---
 
-La configuración predeterminada de optimización de la batería en Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC y otros dispositivos puede detener o cerrar la aplicación Organic Maps en segundo plano.
+La configuración predeterminada de optimización de la batería en Samsung, Huawei, Google, Xiaomi, OnePlus, Meizu, Asus, Wiko, Lenovo, Oppo, Vivo, Realme, Sony, Motorola, HTC y otros dispositivos puede impedir que Organic Maps grabe trayectos en segundo plano.
 
 Esto ocurre especialmente en las versiones modernas de Android:
 - Android 16
